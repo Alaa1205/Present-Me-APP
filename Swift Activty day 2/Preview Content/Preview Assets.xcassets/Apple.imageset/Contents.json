@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Tech Giant Apple’s Shares Plunge To Their Lowest In 18 Months Amid Shortage In iPhone Supply.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
